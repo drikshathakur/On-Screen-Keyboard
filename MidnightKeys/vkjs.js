@@ -32,7 +32,6 @@ $(document).ready(function () {
             }, 1000)
         }
     });
-
     $('#keyboardBase').on('blur', function () {
         let keys = $('.key');
         for (let i = 0; i < keys.length; i++) {
