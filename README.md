@@ -32,9 +32,4 @@ Welcome to our On-Screen Keyboard repository! This project is the result of coll
 - **Updated on:**
 - **Made with:** HTML, CSS, JS
 
-## Typing Animation 🎬
-
-
-![Typing Animation](https://in.pinterest.com/pin/304696731013367533/)
-
 
