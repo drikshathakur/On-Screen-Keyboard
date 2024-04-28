@@ -1,18 +1,23 @@
 body {
-    background-color: #f0f0f0; /* Light grey background color */
+    background-image: url('C:/Users/lenovo/Downloads/Night Shift ll, Pixel Jeff.gif');
+    background-position: center top -70px;
+    background-size: 100% auto; 
+    z-index: 1; 
+    position: relative; 
+    
 }
+
+
 
 .keyboardbg {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #f0f0f0; /* Adjust background color to match body */
 }
 
-
-input{
-    width: 740px;
+input {
+    width: 760px;
     padding: 10px;
     height: 100px;
     border-radius: 15px;
@@ -42,7 +47,6 @@ input{
     padding-top: 10px;
     color: #b6d7f4;
     box-shadow: 1px 1x 10px #57eafd;
-
 }
 
 .key:hover {
@@ -90,4 +94,3 @@ input{
 .space {
     grid-column: span 13;
 }
-
