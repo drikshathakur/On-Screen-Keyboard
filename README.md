@@ -32,4 +32,3 @@ Welcome to our On-Screen Keyboard repository! This project is the result of coll
 - **Updated on:**
 - **Made with:** HTML, CSS, JS
 
-
