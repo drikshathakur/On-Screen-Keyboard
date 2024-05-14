@@ -8,10 +8,30 @@ Welcome to our On-Screen Keyboard repository! This project is the result of coll
 2. Driksha Thakur - 2310991822
 3. Garima Goyal - 2310991824
 
-## Versions
+## Versions 
+
+### VERSION 1: v1
+<name>
+- **Updated By:**
+- **Updated On:**
+- **Made With:** HTML, CSS, JS
+
+### VERSION 2: v2
+<name>
+- **Created By:** Garima Goyal (2310991824)
+- **Updated On:** 14 May, 2024
+- **Features Added:** New Pastel Themes, New Fonts, Improvised Layout, Feedback Page, Contact Us Forum and About Us Page..
+- **Made With:** HTML, CSS, JS
+
+### VERSION 3: v3
+<name>
+- **Created By:** Garima Goyal (2310991824)
+- **Updated On:** 
+- **Features Added:** New Innovative BONUS Themes: Giphy, Prints, Abstract, Anime. Updated Contact Us Forum, Updated About Us Page..
+- **Made With:** HTML, CSS, JS
 
 
-## New Features
+## New Features (BONUS THEMES)
 
 ### Theme 1: 🌙 MIDNIGHT Keys 🌌
 
