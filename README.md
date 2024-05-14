@@ -1,6 +1,8 @@
 ## On-Screen Keyboard
-![Uploading Keyboard holographic_ (1).gif…]()
-Welcome to our On-Screen Keyboard repository! This project is the result of collaborative efforts from a team of three enthusiastic members, each contributing to a unique version of the keyboard. Let's dive in and explore the creativity behind our keyboards! 🚀
+
+![Keyboard holographic_ (1)](https://github.com/drikshathakur786/On-Screen-Keyboard/assets/156819619/88d8625a-1342-4c85-98cb-08d71ab3fa5e)
+
+Welcome to our On-Screen Keyboard repository! This project showcases the evolution of our keyboard designs, with each version reflecting our learning journey and creativity. Let's explore the different versions and themes we've developed! 🚀
 
 ## Team Members 👩‍💻
 
@@ -8,6 +10,21 @@ Welcome to our On-Screen Keyboard repository! This project is the result of coll
 2. Driksha Thakur - 2310991822
 3. Garima Goyal - 2310991824
 
+## Description
+
+This repository contains three versions of our On-Screen Keyboard, each representing a stage of our learning and creativity:
+
+### Version 1: Beginner's Keyboard 🚧
+
+In Version 1, we had just started learning about web development, resulting in a simple and rough keyboard design. This version reflects our initial exploration and experimentation with HTML and CSS.
+
+### Version 2: Enhanced Themes and Functionality 🎨
+
+Version 2 marks a significant improvement in our skills and understanding. We explored different themes and added more functionality to the keyboard. This version includes both AZERTY and QWERTY layouts, various font styles, and color themes. Additionally, we introduced an "About Us" page and a feedback section to enhance user interaction.
+
+### Version 3: Creative Innovation 🌟
+
+In Version 3, we pushed the boundaries of creativity and innovation. This final version showcases unique and innovative ideas, setting it apart from the previous versions. The keyboard design and features are entirely distinct, demonstrating our growth and imagination.
 
 ## New Features
 
@@ -26,34 +43,15 @@ Welcome to our On-Screen Keyboard repository! This project is the result of coll
 - **Updated on:**
 - **Made with:** HTML, CSS, JS
 
-### Theme 3: 🪻 LAVENDER KEYS 💜
+### Theme 3: 
 
 - **Created by:** Garima Goyal (2310991824)
-- **Created on:** 2 May, 2024
+- **Created on:** 
 - **Updated on:**
-  - 14 May, 2024 (Added a giphy background, text-container issues were taken care of) 
 - **Made with:** HTML, CSS, JS
 
-  ### Theme 4: 🌊 ABYSSAL KEYS 🖤
+## Clone Repository
 
-- **Created by:** Garima Goyal (2310991824)
-- **Created on:** 5 May, 2024
-- **Updated on:**
-  - 14 May, 2024 (Added a giphy background, text-container issues were taken of) 
-- **Made with:** HTML, CSS, JS
+Feel free to clone our repository and explore, modify, or contribute to our On-Screen Keyboard project! Have fun experimenting with the code and enjoy the creative journey! 
 
-  ### Theme 5: 💙 SAPPHIRINE KEYS 🌌
-
-- **Created by:** Garima Goyal (2310991824)
-- **Created on:** 7 May, 2024
-- **Updated on:**
-  - 14 May, 2024 (Added a giphy background) 
-- **Made with:** HTML, CSS, JS
-
-  ### Theme 6: 🫧 TWINKLING KEYS 🌃
-
-- **Created by:** Garima Goyal (2310991824)
-- **Created on:** 9 May, 2024
-- **Updated on:**
-  - 14 May, 2024 (Added a giphy background) 
-- **Made with:** HTML, CSS, JS
+[Clone Repository](https://github.com/drikshathakur786/On-Screen-Keyboard)
