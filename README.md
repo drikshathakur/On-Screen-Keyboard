@@ -43,13 +43,38 @@ In Version 3, we pushed the boundaries of creativity and innovation. This final 
 - **Updated on:**
 - **Made with:** HTML, CSS, JS
 
-### Theme 3: 
+### Theme 3: 🪻 LAVENDER KEYS 💜
 
 - **Created by:** Garima Goyal (2310991824)
-- **Created on:** 
+- **Created on:** 14 May, 2024
 - **Updated on:**
+  - 14 May, 2024 (Added a giphy and innovative background, text-container issues were resolved) 
 - **Made with:** HTML, CSS, JS
 
+### Theme 4: 🌊 ABYSSAL KEYS 🖤
+
+- **Created by:** Garima Goyal (2310991824)
+- **Created on:** 14 May, 2024
+- **Updated on:**
+  - 14 May, 2024 (Added a giphy and innovative background) 
+- **Made with:** HTML, CSS, JS
+  
+### Theme 5: 💙 SAPPHIRINE KEYS 🌌
+
+- **Created by:** Garima Goyal (2310991824)
+- **Created on:** 14 May, 2024
+- **Updated on:**
+  - 14 May, 2024 (Added a giphy and innovative background) 
+- **Made with:** HTML, CSS, JS
+- 
+### Theme 6: 🫧 TWINKLING KEYS 🌃
+
+- **Created by:** Garima Goyal (2310991824)
+- **Created on:** 14 May, 2024
+- **Updated on:**
+  - 14 May, 2024 (Added a giphy and innovative background) 
+- **Made with:** HTML, CSS, JS
+  
 ## Clone Repository
 
 Feel free to clone our repository and explore, modify, or contribute to our On-Screen Keyboard project! Have fun experimenting with the code and enjoy the creative journey! 
