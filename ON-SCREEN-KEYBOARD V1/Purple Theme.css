@@ -1,0 +1,247 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+
+body{background: url("hiii.jpg");
+}
+
+.allk {animation-name: fadeInUp;
+   animation-duration: 3s;}
+
+.text {animation-name: fadeInText;
+    animation-duration: 4s;
+}   
+
+.backpage{
+    position: absolute;
+    top: 0px;
+    left: 14px;
+}
+
+.pi{
+    display: inline-block;
+    padding: 0px;
+    color: black;
+    font-family:arial;
+    font-size: 35px;
+}
+
+.ar {animation-name: fadeInUp;
+    animation-duration: 4s; 
+}
+
+   .waviy {
+    font-family: 'Alfa slab one', cursive;
+    position: relative;
+    display: inline-block;
+    font-size: 55px;
+    color: white;
+    width: 17%;
+    animation-name: fadeInText;
+    animation-duration: 4s; 
+}
+
+.waviy1 {
+    font-family: 'Alfa slab one', cursive;
+    position: relative;
+    font-size: 55px;
+    color: white;
+    width: 80%;
+    float: right;
+    animation-name: fadeInText;
+    animation-duration: 6s; 
+}
+
+.theme {
+    font-size: 22px;
+    color: black;
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.8);
+    width: 100%;
+    height: 40px;
+    user-select: none;
+    margin-top: 10px;
+    margin-left: 0px;
+    text-align: justify;
+
+}
+
+.the {
+    font-size: 25px;
+    margin-left: 40px;
+}
+
+.dark {
+    font-size: 16px;
+    color: white;
+    background-color: midnightblue;
+    align-self: justify;
+    margin-top: 3px;
+    margin-right: 9px;
+    margin-left: 17px;
+    height: 36px;
+    width: 56px;
+
+}
+
+.default {
+    font-size: 16px;
+    color: black;
+    background-color: rgb(186, 185, 185);
+    align-self: justify;
+    margin-top: 3px;
+    margin-left: 9px;
+    height: 36px;
+    width: 70px;
+}
+
+.keyboard {
+    
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 4px 0;
+    background: azure;
+    box-shadow: 0 0 70px rgba(42, 39, 39, 0.578);
+    user-select: none;
+    transition: bottom 0.4s;
+	height: 230px;
+    margin-left: 0px ;
+    margin-right: 0px ;
+    text-align:justify;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.keyboard--hidden {
+    bottom: -100%;
+}
+
+.keyboard__keys {
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.keyboard__key{
+    height: 35px;
+    width: 6%;
+    max-width: 290px;
+    margin: 3px;
+    border-radius: 4px;
+    border: none;
+    background: #E5CCFF;
+    color: black;
+    font-size: 17px;
+    outline: none;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    vertical-align: top;
+    padding: 0;
+    -webkit-tap-highlight-color: transparent;
+    position: relative;
+}
+
+.small{font-size:11.9px;
+width:4.3%;
+height:22px;
+}
+
+.sec{width:4.57%;
+    font-size:14.6px;
+}
+
+.smalll{width:4.2%;
+}
+
+.smallll{width:4.3%;
+}
+
+.sep{width:5.85%;
+}
+
+.big{font-size:14.5px;
+    width: 4.3%;
+}
+
+
+.keyboard__key:active {
+    background: rgba(62, 220, 143, 0.12);
+}
+
+.tab{width: 9.45%;
+    font-size:14px;
+    background-color: #CC99FF;
+}
+
+.caps{width:10.6%;
+    background-color: #CC99FF;
+
+}
+
+.ent{width:9.9%;
+    font-size:14.3px;
+    background-color: #CC99FF;
+}
+
+.shft{width:12.7%;
+    font-size:14.3px;
+    background-color: #CC99FF;
+
+}
+
+.shftt{width:13.1%;
+    font-size:14.3px;
+    background-color: #CC99FF;
+}
+
+.wind{width:4.9%;
+    font-size:10px;
+    background-color: #CC99FF;
+}
+
+.secc{width:4.75%;
+font-size:14.3px;
+}
+
+.ins{width:9.2%;
+}
+
+.back{width:10.9%;
+    background-color: #CC99FF;
+}
+
+.keyboard__key--extra-wide {
+    width: 24.85%;
+    max-width: 500px;
+    background-color: #E5CCFF;
+}
+
+.alt {
+    background-color: #CC99FF;
+}
+
+.keyboard__key--activatable::after {
+    content: '';
+    top: 4.6px;
+    right: 4.7px;
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background: rgba(211, 211, 211, 0.4);
+    border-radius: 50%;
+}
+
+.keyboard__key--active::after {
+    background: azure;
+}
+
+.keyboard__key--dark {
+    background: rgba(208, 163, 163, 0.25);
+}
+
+.material-icons{height:25px;
+width:20px;
+text-align: justify;
+}
+
