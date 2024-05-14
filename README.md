@@ -1,4 +1,4 @@
-#On-Screen Keyboard
+## On-Screen Keyboard
 
 Welcome to our On-Screen Keyboard repository! This project is the result of collaborative efforts from a team of three enthusiastic members, each contributing to a unique version of the keyboard. Let's dive in and explore the creativity behind our keyboards! 🚀
 
