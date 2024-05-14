@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+
+.front{
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    padding-top: 21px;
+    padding-bottom: 43px;
+    background: linear-gradient(-70deg, rgb(236, 202, 173) 30%, rgba(0, 0, 0, 0) 30%),url("sae3.jpg");
+    user-select: none;
+	height: 90%;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    -webkit-tap-highlight-color: transparent 16%;
+    opacity: 100%;
+    animation-name: fadeIn;
+    animation-duration: 0.9;
+   
+}
+
+
+
+.heading {
+    margin-top: 18px;
+    margin-left: 714px;
+    font-family: renitah;
+    font-size: 120px;
+    color: white;
+
+
+}
+
+.snd {
+    margin-left: 725px;
+    font-family: fantasy;
+    font-size: 121px;
+    color: white;
+}
+
+.virtual {
+    
+    background-color: rgba(139,69,19,0.5); 
+    height: 50px;
+    width: 250px;
+    font-size: 18.5px;
+    font-family: arial;
+    margin-left: 1000px;
+    margin-bottom: 0px;
+    margin-top: 48px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+   
+
+}
+.button{
+    color: white;
+    background-color: rgba(139,69,19,0.5);
+    border: solid white;
+
+}
+.button:hover {
+    background-color: aliceblue;
+    color: black;
+    box-shadow: 0 8px 16px 0
+    rgba(0,0,0,0.24), 0 17px 50px 0
+    rgba(0,0,0,0.19);
+
+}
+    
+
+
+

@@ -1,0 +1,169 @@
+<doctype! html>
+    <html>
+        <head>
+            <title> VK FRONT PAGE </title>
+            <link rel="stylesheet" type="text/css" href="vk2frontpage.css">
+            <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+            <link rel="stylesheet" href="https://www.sliderrevolution.com/resources/css-page-transitions/" />
+            
+            
+            <style>
+            
+
+            @keyframes fadeIn {
+                0% {opacity: 0%; transform: translate3d(0, 0, 25%);}
+                50% {opacity: 50%; transform: translate3d(0, 0, 50%);}
+                75% {opacity: 75%; transform: translate3d(0, 0, 75%);}
+                100% {opacity: 100%; transform: none;}
+            }
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  font-family: "Lato", sans-serif;
+  transition: background-color .5s;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 29px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+.dropdown-btn {
+  padding: 6px 8px 6px 32px;
+  text-decoration: none;
+  font-size: 29px;
+  color: #818181;
+  display: block;
+  border: none;
+  background: none;
+  cursor: pointer;
+  outline: none;
+}
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+.dropdown-btn:hover {
+  color: #f1f1f1;
+}
+.dropdown-container {
+  display: none;
+  background-color: #262626;
+  font-size: 26px;
+  padding-left: 10px;}
+
+.sidenav .closebtn {
+  position: absolute; 
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#main {
+    transition: margin-left .5s;
+  padding: 16px;
+  font-family: arial;
+  color:rgba(139,69,19,0.5);
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+            </style>
+        </head>
+
+  <body>
+                
+
+      <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" style="color: #f1f1f1;" onclick="closeNav()">&times;</a> <br>
+          <button class="dropdown-btn"> Qwerty
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-container">
+            <a href="E:\FEE-I  HTML\FEE-I PROJECT\Final VK.html" style="font-size:22px;"> Classic </a>
+            <a href="E:\FEE-I  HTML\FEE-I PROJECT\Final VK 2.html" style="font-size:22px;"> Macha </a>
+            <a href="E:\FEE-I  HTML\FEE-I PROJECT\Final VK3.html" style="font-size:22px;"> Sunrise </a>
+            <a href="E:\FEE-I  HTML\FEE-I PROJECT\Final VK4.html" style="font-size:22px;"> Gloomy </a>
+            <a href="E:\FEE-I  HTML\FEE-I PROJECT\Final VK5.html" style="font-size:22px; margin-left:2px;"> Lilac </a>
+
+          </div>  
+          <button class="dropdown-btn"> Azerty
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-container">
+            <a href="E:\FEE-I  HTML\FEE-I PROJECT\Final A D.html" style="font-size:22px;"> Classic </a>
+            <a href="E:\FEE-I  HTML\FEE-I PROJECT\Azerty 2.html" style="font-size:22px;"> Midnight </a>
+            <a href="E:\FEE-I  HTML\FEE-I PROJECT\Azerty 3.html" style="font-size:22px;"> Walnut </a>
+            <a href="E:\FEE-I  HTML\FEE-I PROJECT\Azerty 4.html" style="font-size:22px;"> Ocean </a>
+            <a href="E:\FEE-I  HTML\FEE-I PROJECT\Azerty 6.html" style="font-size:22px; margin-left:2px;"> Bush </a>
+
+          </div>             
+          <a href="E:\FEE-I  HTML\FEE-I PROJECT\about us final.html">About</a>
+          <a href="E:\FEE-I  HTML\FEE-I PROJECT\Rate Us.html">Feedback</a>
+          <a href="E:\FEE-I  HTML\FEE-I PROJECT\Contact Us.html">Contact</a>
+          </div>
+                      
+          <div id="main" style="background-color: rgb(89, 4, 4);">
+              <span style="font-size:30px;cursor:pointer;color: white;" onclick="openNav()">&#9776; Menu</span>
+          </div>
+          
+          <div class="front">
+                
+            <div class="head">
+                    <div class="heading"> VIRTUAL <br/> </div><div class="snd"> KEYBOARD  </div>
+<br>            <div class="opens">
+                <a href="E:\FEE-I  HTML\FEE-I PROJECT\Final VK.html"> <button class="virtual button"> <b> LAUNCH QWERTY</b> </button> </a>
+                <a href="E:\FEE-I  HTML\FEE-I PROJECT\Final Azerty D.html"> <button class="virtual button" style="margin-top: 15px;"> <b> LAUNCH AZERTY</b> </button> </a>
+
+
+            </div>
+
+            <script>
+                function openNav() {
+                  document.getElementById("mySidenav").style.width = "250px";
+                  document.getElementById("main").style.marginLeft = "250px";
+                  document.body.style.backgroundColor = "rgba(0,0,0,0.4)";
+                }
+                
+                function closeNav() {
+                  document.getElementById("mySidenav").style.width = "0";
+                  document.getElementById("main").style.marginLeft= "0";
+                  document.body.style.backgroundColor = "white";
+                }
+
+                var dropdown = document.getElementsByClassName("dropdown-btn");
+var i;
+
+for (i = 0; i < dropdown.length; i++) {
+  dropdown[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var dropdownContent = this.nextElementSibling;
+    if (dropdownContent.style.display === "block") {
+      dropdownContent.style.display = "none";
+    } else {
+      dropdownContent.style.display = "block";
+    }
+  });
+}
+                </script>
+        
+            
+
+            </body>
+    </html>
