@@ -38,7 +38,7 @@ In Version 3, we pushed the boundaries of creativity and innovation. This final 
   - 15 May (Updated bg and the keyboard color)
 - **Made with:** HTML, CSS, JS
 
-### Theme 2: name
+### Theme 2: Purple Paladius
 
 - **Created by:** Diwanshi Manocha (2310991821)
 - **Created on:** [Date]
