@@ -43,7 +43,7 @@ In Version 3, we pushed the boundaries of creativity and innovation. This final 
 ### Theme 2: Purple Paladius 🦄
 
 - **Created by:** Diwanshi Manocha (2310991821)
-- **Created on:** 10 May,2024
+- **Created on:** 15 May,2024
 - **Updated on:**
 - 15 May, 2024 (Final update with all gifs and colors)
 - **Made with:** HTML, CSS, JS
