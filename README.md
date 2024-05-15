@@ -33,16 +33,18 @@ In Version 3, we pushed the boundaries of creativity and innovation. This final 
 - **Created by:** Driksha Thakur (2310991822)
 - **Created on:** 27 April, 2024
 - **Updated on:**
-  - 28 April, 2024 (Added a gif background)
-  - 9 May, 2024 (Added a new theme)
+  - 28 April, 2024 (Made Theme 1-Aqua Serenade)
+  - 9 May, 2024 (Added Theme 2 -Urban Pulse )
   - 15 May (Updated bg and the keyboard color)
+  - 15 May (Added Theme 3- Cascading Peaks)
+  - 15 May (Added Theme 4- Tranquil Chamber )
 - **Made with:** HTML, CSS, JS
 
 ### Theme 2: Purple Paladius
 
 - **Created by:** Diwanshi Manocha (2310991821)
-- **Created on:** [Date]
-- **Updated on:**
+- **Created on:** 15 May,2024
+- **Updated on:** No updates
 - **Made with:** HTML, CSS, JS
 
 ### Theme 3: 🪻 LAVENDER KEYS 💜
@@ -50,7 +52,7 @@ In Version 3, we pushed the boundaries of creativity and innovation. This final 
 - **Created by:** Garima Goyal (2310991824)
 - **Created on:** 14 May, 2024
 - **Updated on:**
-  - 14 May, 2024 (Added a giphy and innovative background, text-container issues were resolved) 
+  - 14 May, 2024 (Added Theme 1) 
 - **Made with:** HTML, CSS, JS
 
 ### Theme 4: 🌊 ABYSSAL KEYS 🖤
