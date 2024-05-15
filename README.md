@@ -44,7 +44,8 @@ In Version 3, we pushed the boundaries of creativity and innovation. This final 
 
 - **Created by:** Diwanshi Manocha (2310991821)
 - **Created on:** 15 May,2024
-- **Updated on:** No updates
+- **Updated on:**
+- 15 May, 2024 (Final update with all gifs and colors)
 - **Made with:** HTML, CSS, JS
 
 ### Theme 3: 🪻 LAVENDER KEYS 💜
