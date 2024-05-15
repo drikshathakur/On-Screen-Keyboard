@@ -48,37 +48,19 @@ In Version 3, we pushed the boundaries of creativity and innovation. This final 
 - 15 May, 2024 (Final update with all gifs and colors)
 - **Made with:** HTML, CSS, JS
 
-### Theme 3: 🪻 LAVENDER KEYS 💜
+### Theme 3: 🖤 CELESTIAL GEMS 🌌
 
 - **Created by:** Garima Goyal (2310991824)
 - **Created on:** 14 May, 2024
 - **Updated on:**
-  - 14 May, 2024 (Added Theme 1) 
+  - 14 May, 2024 (Added 4 THEMES: LAVENDER KEYS, SAPPHIRINE KEYS, ABYSSAL KEYS, TWINKLING KEYS)
+  - 14 May, 2024 (Added Giphy Background and updated layout)
+  - 15 May, 2024 (Added Giphy and Innovative Background)
+  - 15 May, 2024 (Updated text-box container)
+  - 15 May, 2024 (Added Page Links)
+  - 15 May, 2024 (Updated Theme Name)
 - **Made with:** HTML, CSS, JS
 
-### Theme 4: 🌊 ABYSSAL KEYS 🖤
-
-- **Created by:** Garima Goyal (2310991824)
-- **Created on:** 14 May, 2024
-- **Updated on:**
-  - 14 May, 2024 (Added a giphy and innovative background) 
-- **Made with:** HTML, CSS, JS
-  
-### Theme 5: 💙 SAPPHIRINE KEYS 🌌
-
-- **Created by:** Garima Goyal (2310991824)
-- **Created on:** 14 May, 2024
-- **Updated on:**
-  - 14 May, 2024 (Added a giphy and innovative background) 
-- **Made with:** HTML, CSS, JS
-- 
-### Theme 6: 🫧 TWINKLING KEYS 🌃
-
-- **Created by:** Garima Goyal (2310991824)
-- **Created on:** 14 May, 2024
-- **Updated on:**
-  - 14 May, 2024 (Added a giphy and innovative background) 
-- **Made with:** HTML, CSS, JS
   
 ## Clone Repository
 
