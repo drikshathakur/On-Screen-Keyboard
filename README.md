@@ -28,19 +28,19 @@ In Version 3, we pushed the boundaries of creativity and innovation. This final 
 
 ## New Features
 
-### Theme 1: 🌙 MIDNIGHT Keys 🌌
+### Bonus Feature 1: 🌙 MIDNIGHT Keys 🌌
 
 - **Created by:** Driksha Thakur (2310991822)
 - **Created on:** 27 April, 2024
 - **Updated on:**
-  - 28 April, 2024 (Made Theme 1-Aqua Serenade)
-  - 9 May, 2024 (Added Theme 2 -Urban Pulse )
-  - 15 May (Updated bg and the keyboard color)
-  - 15 May (Added Theme 3- Cascading Peaks)
-  - 15 May (Added Theme 4- Tranquil Chamber )
+  - 28 April, 2024 (Made Theme 1-🐟 Aqua Serenade 🍽️)
+  - 9 May, 2024 (Added Theme 2- 🌆 Urban Pulse 🚦)
+  - 15 May, 2024 (Updated bg and the keyboard color)
+  - 15 May, 2024 (Added Theme 3- 💦 Cascading Peaks 🏔️)
+  - 15 May, 2024 (Added Theme 4- 🪟 Tranquil Chamber 🌿 )
 - **Made with:** HTML, CSS, JS
 
-### Theme 2: Purple Paladius
+### Bonus Feature 2: Purple Paladius 🦄
 
 - **Created by:** Diwanshi Manocha (2310991821)
 - **Created on:** 15 May,2024
@@ -48,7 +48,7 @@ In Version 3, we pushed the boundaries of creativity and innovation. This final 
 - 15 May, 2024 (Final update with all gifs and colors)
 - **Made with:** HTML, CSS, JS
 
-### Theme 3: 🪻 LAVENDER KEYS 💜
+### Bonus Feature 3: 🪻 LAVENDER KEYS 💜
 
 - **Created by:** Garima Goyal (2310991824)
 - **Created on:** 14 May, 2024
