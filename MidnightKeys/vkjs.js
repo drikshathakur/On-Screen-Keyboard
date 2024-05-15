@@ -62,20 +62,6 @@ $(document).ready(function () {
       }, 1000);
   });
 
-  // Show emoji panel when clicking on emoji button
-$('#showEmojiPanel').on('click', function() {
-  $('#emojiPanel').toggle();
-});
-
-// Insert selected emoji into the input field
-$('.emoji-btn').on('click', function() {
-  let emoji = $(this).data('emoji');
-  let inputVal = $("#inputbox").val();
-  $("#inputbox").val(inputVal + emoji).focus();
-  $('#emojiPanel').hide(); // Hide emoji panel after selecting
-});
-
-
   // Resetting key styles on blur
   $('#keyboardBase').on('blur', function () {
       $('.key').removeClass('highlight');
