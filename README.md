@@ -34,6 +34,8 @@ In Version 3, we pushed the boundaries of creativity and innovation. This final 
 - **Created on:** 27 April, 2024
 - **Updated on:**
   - 28 April, 2024 (Added a gif background)
+  - 9 May, 2024 (Added a new theme)
+  - 15 May (Updated bg and the keyboard color)
 - **Made with:** HTML, CSS, JS
 
 ### Theme 2: name
