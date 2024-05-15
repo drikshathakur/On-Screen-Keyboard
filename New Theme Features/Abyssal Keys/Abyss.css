@@ -4,7 +4,7 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: url(abb.jpg); /* rgba(221, 254, 254, 0.7 */
+    background: url(white.jpg); /* rgba(221, 254, 254, 0.7 */
   
     font-family: sans-serif;
     display: flex;
@@ -97,9 +97,9 @@ body{
   /* VK */
 
 .textContainer{
-    height: 30vh;
+    height: 20vh;
     margin-top: 2px;;
-    width: 90vw;
+    width: 53vw;
     background: white;
     border-radius: 0.5rem;
     box-shadow: 0 0 10px 1px grey;

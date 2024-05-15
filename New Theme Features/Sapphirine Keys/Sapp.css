@@ -96,11 +96,11 @@ body{
   /* VK */
 
 .textContainer{
-    height: 30vh;
+    height: 20vh;
     margin-top: 2px;;
-    width: 43vw;
+    width: 53vw;
     background: white;
-    border-radius: 0.4rem;
+    border-radius: 0.5rem;
     box-shadow: 0 0 10px 1px grey;
     outline: none;
     padding: 2rem;
