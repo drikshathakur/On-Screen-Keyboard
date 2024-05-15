@@ -40,7 +40,7 @@ In Version 3, we pushed the boundaries of creativity and innovation. This final 
   - 15 May (Added Theme 4- Tranquil Chamber )
 - **Made with:** HTML, CSS, JS
 
-### Theme 2: Purple Paladius
+### Theme 2: Purple Paladius 🦄
 
 - **Created by:** Diwanshi Manocha (2310991821)
 - **Created on:** 15 May,2024
